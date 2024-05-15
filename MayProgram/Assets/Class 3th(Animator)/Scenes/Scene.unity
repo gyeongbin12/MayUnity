@@ -385,7 +385,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: be11230d936044a4882df9598a9a2e12, type: 3}
       propertyPath: m_Name
-      value: Racer.fbx
+      value: Racer
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
