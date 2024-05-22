@@ -361,6 +361,8 @@
 "Assets/Class 6th (User Interface)/Scripts/ButtonManager.cs"
 "Assets/Class 7th (Sound)/Scripts/AudioManager.cs"
 "Assets/Class 8th (Transform)/Scripts/Player.cs"
+"Assets/Class 9th (Instantiate & Destroy)/Scripts/CreateManager.cs"
+"Assets/Class 9th (Instantiate & Destroy)/Scripts/Factory.cs"
 -langversion:9.0
 
 /deterministic
